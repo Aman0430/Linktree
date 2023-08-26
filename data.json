@@ -1,0 +1,37 @@
+{
+    "name": "Aman_Singh",
+    "avatar": "https://avatars.githubusercontent.com/u/112618669?v=4",
+    "desc": "Web developer crafting seamless digital experiences. Let's code the future and shape the web world together. 🌐🚀",
+    "links": [
+        {
+            "title": "Messenger app",
+            "url": "https://messenger-app-ashen.vercel.app/",
+            "image": "/messenger.png"
+        },
+        {
+            "title": "Blog app",
+            "url": "https://blog-2-0-bay.vercel.app/",
+            "image": "/blog.png"
+        },
+        {
+            "title": "Prompt app",
+            "url": "https://share-prompt-v16j-833ahd2rx-aman0430.vercel.app/",
+            "image": "/prompt.png"
+        },
+        {
+            "title": "Vercel",
+            "url": "https://vercel.com/dashboard",
+            "image": "/vercel.svg"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Github",
+            "url": "https://github.com/Aman0430"
+        },
+        {
+            "title": "Linkedin",
+            "url": "https://www.linkedin.com/in/aman-nord2941/"
+        }
+    ]
+}
