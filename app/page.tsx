@@ -46,7 +46,7 @@ export default function Home() {
         height={96}
         className="rounded-full"
       />
-      <div className="mb-20 w-6/12 text-center">
+      <div className="mb-20 w-10/12 text-center">
         <h1 className="font-bold mt-4 text-xl text-slate-300 uppercase font-mono">
           @{data.name}
         </h1>
