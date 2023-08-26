@@ -14,7 +14,7 @@ function LinkCard({ title, url, image }: LinkCardProps) {
       href={url}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-center p-1 w-full rounded-md hover:scale-105 transition-all bg-stone-400 mb-3 max-w-3xl hover:shadow-xl"
+      className="flex items-center p-1 w-full rounded-md hover:scale-105 transition-all bg-stone-300 mb-3 max-w-3xl hover:shadow-xl"
     >
       <div className="flex text-center w-full">
         <div className="w-10 h-10">
@@ -60,13 +60,13 @@ export default function Home() {
 
       <div className="flex flex-row gap-4 mt-6">
         <a href="https://www.linkedin.com/in/aman-nord2941/">
-          <BsLinkedin className="text-lime-600 text-3xl transition hover:scale-105" />
+          <BsLinkedin className="text-lime-500 text-3xl transition hover:scale-105" />
         </a>
         <a href="https://github.com/Aman0430">
-          <BsGithub className="text-lime-600 text-3xl transition hover:scale-105" />
+          <BsGithub className="text-lime-500 text-3xl transition hover:scale-105" />
         </a>
         <a href="https://www.instagram.com/aman.2941/">
-          <BsInstagram className="text-lime-600 text-3xl transition hover:scale-105" />
+          <BsInstagram className="text-lime-500 text-3xl transition hover:scale-105" />
         </a>
       </div>
     </div>
